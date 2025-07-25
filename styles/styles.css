@@ -130,3 +130,21 @@ h2 {
   font-size: 16px;
   border: none;
 }
+/*flower-------------------*/
+.flower {
+  margin-top: 210.13px;
+  display: flex;
+}
+.head {
+  font-size: 50px;
+  font-weight: bold;
+  color: #000000;
+  margin-top: 30.13px;
+  margin-bottom: 20px;
+}
+.flower-left {
+  margin-right: 100px;
+}
+.flower-right ul li {
+  margin-top: 30px;
+}
