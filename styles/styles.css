@@ -1,0 +1,55 @@
+.noto-serif normal {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.container {
+  max-width: 1280px;
+  margin: auto;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+nav ul li {
+  list-style: none;
+}
+nav ul {
+  display: flex;
+  gap: 48px;
+}
+. nav-left {
+  margin-top: 24.5px;
+  margin-left: 150px;
+  margin-right: 1155px;
+  margin-bottom: 4505.5px;
+}
+.list-style1 {
+  font-weight: medium;
+  font-style: bold;
+  color: #252432;
+}
+.list-style2 {
+  font-weight: medium;
+  font-style: normal;
+  color: #8987a1;
+}
+.list-style3 {
+  font-weight: medium;
+  font-style: normal;
+  color: #000000;
+}
