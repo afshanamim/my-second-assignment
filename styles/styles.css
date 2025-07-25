@@ -223,3 +223,52 @@ h2 {
 .fl2 ul li {
   list-style: none;
 }
+/* join section-------------------*/
+.join-section {
+  background-image: url("../assets/news-letter-bg.png");
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  display: grid;
+  gap: 30px;
+  margin-top: 120px;
+}
+
+.join-section h2 {
+  font-weight: bold;
+  font-size: 50px;
+  color: white;
+  padding-top: 199px;
+  padding-bottom: 23px;
+}
+
+.join-form {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: px;
+  max-width: 600px;
+  margin: 0 auto;
+  width: 100%;
+  padding-bottom: 193px;
+}
+
+.join-form input[type="email"] {
+  padding: 15px 20px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+}
+
+.join-form button {
+  padding: 15px 25px;
+  background-color: #d84710;
+  color: white;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.join-form button:hover {
+  background-color: #b8380e;
+}
