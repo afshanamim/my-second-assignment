@@ -148,3 +148,78 @@ h2 {
 .flower-right ul li {
   margin-top: 30px;
 }
+/*offer -----------------section*/
+
+.offer-section {
+  display: flex;
+  gap: 60px;
+}
+.offer-right {
+  background-image: url("../assets/deal-zabo.png");
+  height: 432px;
+  width: 753px;
+  text-align: center;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+.offer-right ul li {
+  list-style: none;
+}
+
+.list2 {
+  align-items: center;
+  justify-content: center;
+  padding-top: 172.12px;
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: bold;
+}
+.list-2 {
+  padding: 1px;
+  color: #ffffff;
+  font-size: 28px;
+  font-weight: 300;
+}
+
+.offer-left {
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.fl1 {
+  background-image: url("../assets/deal-bloom.png");
+  display: grid;
+  text-align: center;
+  height: 206px;
+  width: 366px;
+  border-radius: 10px;
+}
+.fl1 ul li {
+  list-style: none;
+}
+.list {
+  align-items: center;
+  justify-content: center;
+  padding-top: 90px;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+.list-1 {
+  padding: 1px;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 300;
+}
+.fl2 {
+  background-image: url("../assets/deal-ana.png");
+  display: grid;
+  text-align: center;
+  height: 206px;
+  width: 366px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+.fl2 ul li {
+  list-style: none;
+}
